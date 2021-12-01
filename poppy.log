@@ -1,0 +1,98 @@
+08-Jan-21 13:56:39 - Poppy.Free ran this application from /Users/Poppy.Free
+08-Jan-21 13:59:05 - Poppy.Free ran this application from /Users/Poppy.Free
+08-Jan-21 16:04:38 - Poppy.Free ran this application from /Users/Poppy.Free
+08-Jan-21 16:05:32 - Poppy.Free ran this application from /Users/Poppy.Free
+08-Jan-21 16:05:32 - This is a debug message: Poppy.Free ran this application from /Users/Poppy.Free
+08-Jan-21 16:31:49 - The environment variables were present
+08-Jan-21 16:31:49 - This is a debug message: Poppy.Free ran this application from /Users/Poppy.Free
+08-Jan-21 16:33:53 - The environment variables were not present
+08-Jan-21 16:36:59 - The environment variables were not present
+08-Jan-21 16:37:38 - The environment variables were not present
+08-Jan-21 16:42:19 - The environment variables were present
+08-Jan-21 16:42:19 - This is a debug message: Poppy.Free ran this application from /Users/Poppy.Free
+08-Jan-21 16:42:58 - The environment variables were not present
+11-Jan-21 11:01:54 - The environment variables were present
+11-Jan-21 11:01:54 - This is a debug message: Poppy.Free ran this application from /Users/Poppy.Free
+11-Jan-21 14:05:17 - The environment variables were present
+11-Jan-21 14:05:17 - This is a debug message: Poppy.Free ran this application from /Users/Poppy.Free
+12-Jan-21 12:03:08 - The environment variables were not present
+12-Jan-21 12:05:31 - The environment variables were present
+12-Jan-21 12:05:31 - This is a debug message: stop thinking about envin variables in ansible Free ran this application from stop thinking about envin variables in ansible Free
+12-Jan-21 12:48:37 - The environment variables were present
+12-Jan-21 12:48:37 - This is a debug message: os.environ['LOGNAME'] ran this application from os.environ['LOGNAME']
+12-Jan-21 12:51:43 - The environment variables were present
+12-Jan-21 12:51:43 - This is a debug message: os.environ['LOGNAME'] ran this application from None
+12-Jan-21 12:52:44 - The environment variables were present
+12-Jan-21 12:52:44 - This is a debug message: os.environ['LOGNAME'] ran this application from os.environ['HOME']
+12-Jan-21 12:59:18 - The environment variables were present
+12-Jan-21 12:59:18 - This is a debug message: Poppy has a favourite colour. It is green
+12-Jan-21 13:00:13 - This is an info message: The environment variables were present
+12-Jan-21 13:00:13 - This is a debug message: Poppy has a favourite colour. It is green
+12-Jan-21 13:03:18 - This is an info message: The environment variables were present
+12-Jan-21 13:03:18 - This is a debug message: Poppy has a favourite colour. It is green
+12-Jan-21 13:03:50 - This is an info message: The environment variables were present
+12-Jan-21 13:03:50 - This is a debug message: Poppy has a favourite colour. It is green
+12-Jan-21 13:04:10 - This is an info message: The environment variables were present
+12-Jan-21 13:04:10 - This is a debug message: Poppy has a favourite colour. It is green
+12-Jan-21 13:04:36 - This is an info message: The environment variables were present
+12-Jan-21 13:04:36 - This is a debug message: Poppy has a favourite colour. It is green
+14-Jan-21 15:10:10 - this is a warning message: The environment variables were not present
+14-Jan-21 15:12:53 - This is an info message: The environment variables were present
+14-Jan-21 15:12:53 - This is a debug message: Poppy has a favourite colour. It is green
+14-Jan-21 16:42:38 - This is an info message: The environment variables were present
+14-Jan-21 16:42:38 - This is a debug message: Poppy has a favourite colour. It is green
+14-Jan-21 16:47:30 - This is an info message: The environment variables were present
+14-Jan-21 16:47:30 - This is a debug message: Poppy has a favourite colour. It is green
+14-Jan-21 16:56:08 - This is an info message: The environment variables were present
+14-Jan-21 16:56:08 - This is a debug message: Poppy has a favourite colour. It is green
+15-Jan-21 11:42:02 - This is an info message: The environment variables were present
+15-Jan-21 11:42:02 - This is a debug message: Poppy has a favourite colour. It is green
+15-Jan-21 11:42:44 - This is an info message: The environment variables were present
+15-Jan-21 11:42:44 - This is a debug message: Poppy has a favourite colour. It is green
+15-Jan-21 11:44:17 - This is an info message: The environment variables were present
+15-Jan-21 11:44:17 - This is a debug message: Poppy has a favourite colour. It is green
+15-Jan-21 11:50:36 - This is an info message: The environment variables were present
+15-Jan-21 11:50:36 - This is a debug message: Poppy has a favourite colour. It is green
+15-Jan-21 11:52:51 - This is an info message: The environment variables were present
+15-Jan-21 11:52:51 - This is a debug message: Poppy has a favourite colour. It is green
+19-Jan-21 13:44:27 - INFO: The environment variables were present
+19-Jan-21 13:44:27 - DEBUG: Poppy has a favourite colour. It is green
+19-Jan-21 13:46:14 - INFO: The environment variables were present
+19-Jan-21 13:46:14 - DEBUG: Poppy has a favourite colour. It is green
+19-Jan-21 13:46:31 - INFO: The environment variables were present
+19-Jan-21 13:46:31 - DEBUG: Poppy has a favourite colour. It is green
+19-Jan-21 13:47:12 - INFO: The environment variables were present
+19-Jan-21 13:47:12 - DEBUG: Poppy has a favourite colour. It is green
+19-Jan-21 13:52:38 - INFO: The environment variables were present
+19-Jan-21 13:52:38 - DEBUG: Poppy has a favourite colour. It is green
+2021-01-19 13:55:06,278 - INFO: The environment variables were present
+2021-01-19 13:55:06,278 - DEBUG: Poppy has a favourite colour. It is green
+INFO:root:INFO: The environment variables were present
+DEBUG:root:DEBUG: Poppy has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:Poppy has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:Poppy has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:Poppy has a favourite colour. It is green
+ERROR:root:The environment variables were not present
+ERROR:root:The environment variables were not present
+INFO:root:The environment variables were present
+DEBUG:root:None has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:None has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:None has a favourite colour. It is green
+ERROR:root:The environment variables were not present
+INFO:root:The environment variables were present
+DEBUG:root:Poppy has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:Poppy has a favourite colour. It is green
+ERROR:root:The environment variables were not present
+INFO:root:The environment variables were present
+DEBUG:root:Poppy has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:Poppy has a favourite colour. It is green
+INFO:root:The environment variables were present
+DEBUG:root:None has a favourite colour. It is green
+WARNING:root:The environment variables were not present
